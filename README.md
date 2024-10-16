@@ -4,7 +4,8 @@
 This project aims to predict the selling price of cars based on various features such as present price, year, kilometers driven, fuel type, seller type, transmission, and owner. The model is built using machine learning techniques, specifically focusing on Lasso regression, Linear Regression, and Ordinary Least Squares (OLS) regression.
 
 ## Features
-- **Input Variables**: 
+- **Input Variables**:
+  - Car Name  
   - Present Price
   - Year
   - Kilometers Driven
@@ -47,4 +48,4 @@ Run the Gradio interface to input the features of a car, and it will output the 
 The Lasso regression model has been chosen for the final prediction due to its superior performance compared to other models. This project provides a simple yet effective way for users to estimate car prices based on relevant features.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [CarPrice_Prediction](CarPrice_Prediction) file for details.
